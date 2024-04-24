@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+
+  <!-- onehalf-light -->
+  <draw:color draw:name="onehalf-light black" draw:color="#383a42"/>
+  <draw:color draw:name="onehalf-light red" draw:color="#e45649"/>
+  <draw:color draw:name="onehalf-light green" draw:color="#50a14f"/>
+  <draw:color draw:name="onehalf-light yellow" draw:color="#c18401"/>
+  <draw:color draw:name="onehalf-light blue" draw:color="#0184bc"/>
+  <draw:color draw:name="onehalf-light magenta" draw:color="#a626a4"/>
+  <draw:color draw:name="onehalf-light cyan" draw:color="#0997b3"/>
+  <draw:color draw:name="onehalf-light white" draw:color="#fafafa"/>
+
+  <!-- align to a row of 12 -->
+  <draw:color draw:name="unused 1" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 2" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 3" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 4" draw:color="#ffffff"/>
+
+  <!-- onehalf-dark -->
+  <draw:color draw:name="onehalf-dark black" draw:color="#282c34"/>
+  <draw:color draw:name="onehalf-dark red" draw:color="#e06c75"/>
+  <draw:color draw:name="onehalf-dark green" draw:color="#98c379"/>
+  <draw:color draw:name="onehalf-dark yellow" draw:color="#e5c07b"/>
+  <draw:color draw:name="onehalf-dark blue" draw:color="#61afef"/>
+  <draw:color draw:name="onehalf-dark magenta" draw:color="#c678dd"/>
+  <draw:color draw:name="onehalf-dark cyan" draw:color="#56b6c2"/>
+  <draw:color draw:name="onehalf-dark white" draw:color="#dcdfe4"/>
+
+  <!-- align to a row of 12 -->
+  <draw:color draw:name="unused 5" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 6" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 7" draw:color="#ffffff"/>
+  <draw:color draw:name="unused 8" draw:color="#ffffff"/>
+
+</office:color-table>

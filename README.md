@@ -46,6 +46,7 @@ A color scheme for Sublime Text, (Neo)Vim, iTerm, and more. Based on Atom's One.
   - [x] [Kitty](./kitty)
   - [x] [TextMate](./sublimetext)
   - [x] [xfce4-terminal](./xfce4-terminal)
+  - [x] [LibreOffice](./libreoffice)
   - [ ] Hyper
   - [ ] ConEmu
   - [ ] IntelliJ
